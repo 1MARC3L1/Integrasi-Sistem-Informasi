@@ -1,0 +1,3 @@
+101|Budi Santoso|Teknik Informatika|Aktif
+102|Siti Aminah|Sistem Informasi|Aktif
+103|Rian Pratama|Teknik Komputer|Cuti

@@ -1,0 +1,11 @@
+legacy_core
+legacy_core.exe
+*.exe
+*.o
+venv/
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+Thumbs.db
